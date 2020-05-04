@@ -10,7 +10,7 @@ You work for a company that has decided to introduce new pricing plans (Bronze, 
 - Vue Progressbar
 - Sweetalert
 - Vue page title
-- [Borrowed design](https://jsfiddle.net/StartBootstrap/rgp3qdye/?utm_source=website&utm_medium=embed&utm_campaign=rgp3qdye)
+- [Borrowed design](https://startbootstrap.com/snippets/pricing-table/)
 
 ## Note
 I chose to use Vue.js because of the duration of the task + it is my go-to frontend framework.<br>
